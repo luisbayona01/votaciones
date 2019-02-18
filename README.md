@@ -1,2 +1,1 @@
-   systema   para  registrar  datos  de  los votantes  de   varios   municipios
-   se esta utulizando  un framework llamado codeigniter pra  la instalacion  es solo copiar  y pegar la carpeta dentro del serviodr para   configuracion  no  necesita mninugna configuracion adicional  la   bd de  datos se  encuentra dentro de la carpeta de la  aplicacion  en   otra carpeta  con el nombre de bd  es  solo crear  la bd  con el nombre de votaciones  y cargar el script por phpmyadmin   
+cruggenrador creado por luis bayona
